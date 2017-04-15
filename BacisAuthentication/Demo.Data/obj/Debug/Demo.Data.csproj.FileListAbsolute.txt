@@ -1,0 +1,10 @@
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\Demo.Data.dll.config
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\Demo.Data.dll
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\Demo.Data.pdb
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\EntityFramework.dll
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\EntityFramework.xml
+D:\MVCpractice\BacisAuthentication\Demo.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVCpractice\BacisAuthentication\Demo.Data\obj\Debug\Demo.Data.csprojResolveAssemblyReference.cache
+D:\MVCpractice\BacisAuthentication\Demo.Data\obj\Debug\Demo.Data.dll
+D:\MVCpractice\BacisAuthentication\Demo.Data\obj\Debug\Demo.Data.pdb
